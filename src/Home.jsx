@@ -82,6 +82,12 @@ const tf={
     fontSize:'15px',
     marginTop:'70px'
 }
+const tf2q={
+  marginLeft:'50px',
+  color:'black',
+  fontSize:'15px',
+  marginTop:'70px'
+}
 const tfw={
     marginLeft:'50px',
     color:'black',
@@ -119,6 +125,9 @@ const Home =() =>
     <ul className="navbar-nav">
       <li className="nav-item">
         <b><a style={tf} className="nav-link " href="/New">NEW!</a></b>
+      </li>
+      <li className="nav-item">
+        <b><a style={tf2q} className="nav-link " href="/">HOME</a></b>
       </li>
       <li className="nav-item">
        <b> <a style={tfw} className="nav-link" href="/Show">SHOP ALL</a></b>

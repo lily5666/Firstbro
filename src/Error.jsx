@@ -4,9 +4,8 @@ const Error =() =>
 {
   return(
     <React.Fragment>
-   <div>
-       <h6>404 file not found!</h6>
-       </div>
+<h1>404 page not found!</h1>
+
     </React.Fragment>
   );
 };

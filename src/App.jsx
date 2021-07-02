@@ -8,7 +8,7 @@ import Last from './Last';
 import Df from './Df';
 import Home from './Home';
 import Hell from './Hell';
-import Error from './Error';
+import Error from './Home';
 import Kpw from './Kpw';
 import Jppp from './Jppp';
 import Newfile from './Newfile';
